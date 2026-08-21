@@ -1,5 +1,5 @@
-# Git과 Github
+# 재밋는 Git과 Github
 
 ## 기여자 목록
-- 송도진
-- 최주영
+- dododev
+- jy-0202
